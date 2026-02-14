@@ -1,0 +1,2 @@
+﻿RouteID,VehicleID,VehicleType,Departure_From_Depot,Arrival_Back_Depot,Num_Stops,Total_Distance_KM,Total_Duration_Min,Total_Load_KGM,Capacity_KGM,Util_KGM_%,Total_Trip_Cost
+R_1-17-2023_0,AUV_0,AUV,06:51,10:36,2,72.52,225.0,361.0,1000.0,43.7,756.0

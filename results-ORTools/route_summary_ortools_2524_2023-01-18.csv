@@ -1,0 +1,2 @@
+﻿RouteID,VehicleID,VehicleType,Num_Stops,Total_Distance_KM,Total_Duration_Min,Total_Load_KGM,Total_Load_CBM,Capacity_KGM,Capacity_CBM,Util_KGM_%,Util_CBM_%,Fixed_Cost,Variable_Cost,Penalty_Cost,Total_Trip_Cost,Cost_Per_KG,Simple_Route_Sequence
+R_2023-01-18_0,0,AUV,1,68.38,197,900,0.007,1000,4.579,90.0,0.2,10,683.84,0,693.84,0.77,Depot -> 70017496 -> Depot

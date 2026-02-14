@@ -1,0 +1,3 @@
+﻿RouteID,VehicleID,VehicleType,StopOrder,LocationID,ETA,ETD,TimeWindow,Demand_KGM,Segment_Dist_KM,Wait_Min,Load_On_Board_KG
+R_3-20-2023_0,4w_0,4w,1,70019482,08:00,09:00,08:00-17:00,420.0,47.77,0,1260.0
+R_3-20-2023_0,4w_0,4w,2,70130674,09:07,10:07,08:00-17:00,840.0,3.87,0,840.0

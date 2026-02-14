@@ -1,0 +1,138 @@
+[INFO] >>> [INIT] Starting HF-VRPTW Optimization Pipeline
+[INFO]     Target Depot: 2524
+[INFO]     Input File: CleanData\Split_TransportOrder_allabove1_2524.csv
+[INFO]     Mode: Batch Processing (14 days found)
+==================================================
+[INFO]   ► Processing Date: 2023-01-06
+[INFO] ==================================================
+[INFO]     ✔ Solution Found in 150.08s
+[INFO]     Objective Cost: 703
+[INFO]     --- Route Details ---
+[INFO]     [Vehicle 0] AUV | Stops: 2 | Load: 286/1000kg (28.6%)
+[INFO]     Total Active Routes: 1
+==================================================
+[INFO]   ► Processing Date: 2023-01-09
+[INFO] ==================================================
+[INFO]     ✔ Solution Found in 150.13s
+[INFO]     Objective Cost: 1541
+[INFO]     --- Route Details ---
+[INFO]     [Vehicle 20] 4w | Stops: 3 | Load: 1714/2000kg (85.7%)
+[INFO]     Total Active Routes: 1
+==================================================
+[INFO]   ► Processing Date: 2023-01-11
+[INFO] ==================================================
+[INFO]     ✔ Solution Found in 150.08s
+[INFO]     Objective Cost: 992
+[INFO]     --- Route Details ---
+[INFO]     [Vehicle 0] AUV | Stops: 2 | Load: 510/1000kg (51.0%)
+[INFO]     Total Active Routes: 1
+==================================================
+[INFO]   ► Processing Date: 2023-01-12
+[INFO] ==================================================
+[INFO]     ✔ Solution Found in 150.08s
+[INFO]     Objective Cost: 2341
+[INFO]     --- Route Details ---
+[INFO]     [Vehicle 18] AUV | Stops: 4 | Load: 278/1000kg (27.8%)
+[INFO]     [Vehicle 21] 4w | Stops: 8 | Load: 1710/2000kg (85.5%)
+[INFO]     [Vehicle 22] 4w | Stops: 1 | Load: 1471/2000kg (73.6%)
+[INFO]     Total Active Routes: 3
+==================================================
+[INFO]   ► Processing Date: 2023-01-13
+[INFO] ==================================================
+[INFO]     ✔ Solution Found in 150.12s
+[INFO]     Objective Cost: 3036
+[INFO]     --- Route Details ---
+[INFO]     [Vehicle 0] AUV | Stops: 9 | Load: 825/1000kg (82.5%)
+[INFO]     [Vehicle 28] 4w | Stops: 8 | Load: 1821/2000kg (91.0%)
+[INFO]     [Vehicle 43] 6w | Stops: 9 | Load: 3877/7000kg (55.4%)
+[INFO]     Total Active Routes: 3
+==================================================
+[INFO]   ► Processing Date: 2023-01-16
+[INFO] ==================================================
+[INFO]     ✔ Solution Found in 150.09s
+[INFO]     Objective Cost: 6762
+[INFO]     --- Route Details ---
+[INFO]     [Vehicle 0] AUV | Stops: 7 | Load: 475/1000kg (47.5%)
+[INFO]     [Vehicle 1] AUV | Stops: 5 | Load: 555/1000kg (55.5%)
+[INFO]     [Vehicle 2] AUV | Stops: 6 | Load: 891/1000kg (89.1%)
+[INFO]     [Vehicle 40] 6w | Stops: 8 | Load: 4223/7000kg (60.3%)
+[INFO]     [Vehicle 42] 6w | Stops: 9 | Load: 2635/7000kg (37.6%)
+[INFO]     Total Active Routes: 5
+==================================================
+[INFO]   ► Processing Date: 2023-01-17
+[INFO] ==================================================
+[INFO]     ✔ Solution Found in 150.08s
+[INFO]     Objective Cost: 741
+[INFO]     --- Route Details ---
+[INFO]     [Vehicle 0] AUV | Stops: 2 | Load: 361/1000kg (36.1%)
+[INFO]     Total Active Routes: 1
+==================================================
+[INFO]   ► Processing Date: 2023-01-18
+[INFO] ==================================================
+[INFO]     ✔ Solution Found in 150.08s
+[INFO]     Objective Cost: 700
+[INFO]     --- Route Details ---
+[INFO]     [Vehicle 0] AUV | Stops: 1 | Load: 900/1000kg (90.0%)
+[INFO]     Total Active Routes: 1
+==================================================
+[INFO]   ► Processing Date: 2023-01-20
+[INFO] ==================================================
+[INFO]     ✔ Solution Found in 150.09s
+[INFO]     Objective Cost: 4054
+[INFO]     --- Route Details ---
+[INFO]     [Vehicle 0] AUV | Stops: 8 | Load: 941/1000kg (94.1%)
+[INFO]     [Vehicle 1] AUV | Stops: 8 | Load: 773/1000kg (77.3%)
+[INFO]     [Vehicle 50] 6w | Stops: 7 | Load: 3158/7000kg (45.1%)
+[INFO]     [Vehicle 53] 6w | Stops: 9 | Load: 3246/7000kg (46.4%)
+[INFO]     Total Active Routes: 4
+==================================================
+[INFO]   ► Processing Date: 2023-01-23
+[INFO] ==================================================
+[INFO]     ✔ Solution Found in 150.13s
+[INFO]     Objective Cost: 6845
+[INFO]     --- Route Details ---
+[INFO]     [Vehicle 20] 4w | Stops: 8 | Load: 1925/2000kg (96.2%)
+[INFO]     [Vehicle 21] 4w | Stops: 9 | Load: 1962/2000kg (98.1%)
+[INFO]     [Vehicle 41] 6w | Stops: 8 | Load: 2901/7000kg (41.4%)
+[INFO]     [Vehicle 42] 6w | Stops: 9 | Load: 4325/7000kg (61.8%)
+[INFO]     [Vehicle 100] MC | Stops: 1 | Load: 134/150kg (89.3%)
+[INFO]     Total Active Routes: 5
+==================================================
+[INFO]   ► Processing Date: 2023-03-16
+[INFO] ==================================================
+[INFO]     ✔ Solution Found in 150.10s
+[INFO]     Objective Cost: 8259
+[INFO]     --- Route Details ---
+[INFO]     [Vehicle 0] AUV | Stops: 8 | Load: 940/1000kg (94.0%)
+[INFO]     [Vehicle 20] 4w | Stops: 14 | Load: 1906/2000kg (95.3%)
+[INFO]     [Vehicle 21] 4w | Stops: 7 | Load: 1988/2000kg (99.4%)
+[INFO]     [Vehicle 39] 4w | Stops: 7 | Load: 1842/2000kg (92.1%)
+[INFO]     [Vehicle 41] 6w | Stops: 8 | Load: 3386/7000kg (48.4%)
+[INFO]     [Vehicle 42] 6w | Stops: 16 | Load: 3656/7000kg (52.2%)
+[INFO]     [Vehicle 100] MC | Stops: 2 | Load: 112/150kg (74.7%)
+[INFO]     Total Active Routes: 7
+==================================================
+[INFO]   ► Processing Date: 2023-03-17
+[INFO] ==================================================
+[INFO]     ✔ Solution Found in 150.08s
+[INFO]     Objective Cost: 907
+[INFO]     --- Route Details ---
+[INFO]     [Vehicle 20] 4w | Stops: 6 | Load: 1037/2000kg (51.8%)
+[INFO]     Total Active Routes: 1
+==================================================
+[INFO]   ► Processing Date: 2023-03-20
+[INFO] ==================================================
+[INFO]     ✔ Solution Found in 150.08s
+[INFO]     Objective Cost: 1195
+[INFO]     --- Route Details ---
+[INFO]     [Vehicle 20] 4w | Stops: 2 | Load: 1260/2000kg (63.0%)
+[INFO]     Total Active Routes: 1
+==================================================
+[INFO]   ► Processing Date: 2023-03-27
+[INFO] ==================================================
+[INFO]     ✔ Solution Found in 150.10s
+[INFO]     Objective Cost: 1351
+[INFO]     --- Route Details ---
+[INFO]     [Vehicle 0] AUV | Stops: 6 | Load: 324/1000kg (32.4%)
+[INFO]     Total Active Routes: 1
+>>> All finished in 2137.58s. Results saved to results/2524

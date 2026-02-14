@@ -1,0 +1,5 @@
+﻿RouteID,VehicleID,StopOrder,LocationID,ETA,Arrival_Min,List_Order_IDs,Num_Orders,Latitude,Longitude,Allowed_Trucks,Wait_Min,Service_Start_Min,Service_Duration_Min,TimeWindow,Demand_KGM,Demand_CBM,Segment_Dist_KM,Segment_Cost,VehicleType,Route_Total_Cost,Load_On_Board
+R_2023-01-17_0,0,0,Depot_Start,06:52,412,START,0,14.30953239,121.0973984,{All},0,412,0,N/A,0,0.0,0.0,0,AUV,735.24,361
+R_2023-01-17_0,0,1,70017470,08:00,480,Row_0,1,14.56348294,121.0174927,"{10w, 40ft, 4w, 6w, AUV}",0,480,60,08:00-17:00,217,0.001,34.03,342,AUV,735.24,361
+R_2023-01-17_0,0,2,70464173,09:15,555,Row_1,1,14.52859003,121.0415683,"{10w, 40ft, 4w, 6w, AUV}",0,555,20,08:00-17:00,144,0.001,7.59,78,AUV,735.24,144
+R_2023-01-17_0,0,3,Depot_End,10:37,637,END,0,14.30953239,121.0973984,{All},0,637,0,Full Day,0,0.0,30.9,0,AUV,735.24,0
